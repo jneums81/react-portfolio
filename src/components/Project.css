@@ -1,0 +1,20 @@
+.project {
+  margin: 1rem;
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  h3 {
+    margin: 0.5rem 0;
+  }
+
+  p {
+    margin: 0.5rem 0;
+    font-size: 14px;
+    a {
+      color: #007bff;
+    }
+  }
+}

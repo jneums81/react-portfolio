@@ -1,0 +1,13 @@
+/* src/sections/Portfolio.css */
+.portfolio {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  
