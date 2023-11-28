@@ -7,11 +7,17 @@ const Portfolio = () => {
   // Example project data, replace with your own
   const projects = [
     {
-      title: 'Project 1',
-      image: 'project1.png',
-      deployedLink: 'https://project1.com',
-      githubLink: 'https://github.com/yourusername/project1',
+      title: 'Meal Planner App',
+      image: 'MealPlanner.png',
+      deployedLink: 'https://lizfischstix.github.io/mealplannerapp/',
+      githubLink: 'https://github.com/lizfischstix/mealplannerapp',
     },
+    {
+      title: 'Chatterbox App',
+      image: 'image.png',
+      deployedLink: 'https://grisly-skeleton-98871-e156069b1ed4.herokuapp.com',
+      githubLink: 'https://github.com/kevinpatto/super-duper-fortnight'
+    }
     // Add more projects as needed
   ];
 

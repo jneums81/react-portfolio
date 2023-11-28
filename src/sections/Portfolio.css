@@ -2,12 +2,14 @@
 .portfolio {
     text-align: center;
     padding: 2rem;
+    color: black;
   }
   
   .projects {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    color: black;
   }
   
   
