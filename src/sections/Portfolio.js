@@ -17,6 +17,12 @@ const Portfolio = () => {
       image: 'image.png',
       deployedLink: 'https://grisly-skeleton-98871-e156069b1ed4.herokuapp.com',
       githubLink: 'https://github.com/kevinpatto/super-duper-fortnight'
+    },
+    {
+      title: 'Journey Log App',
+      image: 'JourneyLog.png',
+      deployedLink: 'https://shielded-bastion-82364-5f4c4dcf0212.herokuapp.com/',
+      githubLink: 'https://github.com/lopezivan763/journey-log-2.0'
     }
     // Add more projects as needed
   ];
